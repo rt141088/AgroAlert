@@ -1,0 +1,15 @@
+C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Application\bin\Debug\net8.0\AgroAlert.Application.deps.json
+C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Application\bin\Debug\net8.0\AgroAlert.Application.dll
+C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Application\bin\Debug\net8.0\AgroAlert.Application.pdb
+C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Application\bin\Debug\net8.0\AgroAlert.Domain.dll
+C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Application\bin\Debug\net8.0\AgroAlert.Domain.pdb
+C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Application\obj\Debug\net8.0\AgroAlert.Application.csproj.AssemblyReference.cache
+C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Application\obj\Debug\net8.0\AgroAlert.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Application\obj\Debug\net8.0\AgroAlert.Application.AssemblyInfoInputs.cache
+C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Application\obj\Debug\net8.0\AgroAlert.Application.AssemblyInfo.cs
+C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Application\obj\Debug\net8.0\AgroAlert.Application.csproj.CoreCompileInputs.cache
+C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Application\obj\Debug\net8.0\AgroAler.CC425957.Up2Date
+C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Application\obj\Debug\net8.0\AgroAlert.Application.dll
+C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Application\obj\Debug\net8.0\refint\AgroAlert.Application.dll
+C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Application\obj\Debug\net8.0\AgroAlert.Application.pdb
+C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Application\obj\Debug\net8.0\ref\AgroAlert.Application.dll

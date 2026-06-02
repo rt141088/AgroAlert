@@ -1,0 +1,11 @@
+C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Domain\bin\Debug\net8.0\AgroAlert.Domain.deps.json
+C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Domain\bin\Debug\net8.0\AgroAlert.Domain.dll
+C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Domain\bin\Debug\net8.0\AgroAlert.Domain.pdb
+C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Domain\obj\Debug\net8.0\AgroAlert.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Domain\obj\Debug\net8.0\AgroAlert.Domain.AssemblyInfoInputs.cache
+C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Domain\obj\Debug\net8.0\AgroAlert.Domain.AssemblyInfo.cs
+C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Domain\obj\Debug\net8.0\AgroAlert.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Domain\obj\Debug\net8.0\AgroAlert.Domain.dll
+C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Domain\obj\Debug\net8.0\refint\AgroAlert.Domain.dll
+C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Domain\obj\Debug\net8.0\AgroAlert.Domain.pdb
+C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Domain\obj\Debug\net8.0\ref\AgroAlert.Domain.dll

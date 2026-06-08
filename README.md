@@ -246,5 +246,5 @@ dotnet test AgroAlert.Tests/
 | Rafael Terra Teodoro | RM 560955 |
 | Enzo Elia Tarraga | RM 560901 |
 | Otoniel Arantes Barbado | RM 560112 |
-
-📧 agroalert@fiap.com.br
+| Ranaldo José da Silva | RM 559210 |
+| Fabrício José da Silva | RM 560694 |

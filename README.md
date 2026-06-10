@@ -73,7 +73,7 @@ Pressione F5 ou clique no botão ▶️ verde
 
 **4. Acessar o Swagger**
 ```
-http://localhost:5001/swagger
+http://localhost:5000/swagger
 ```
 
 > Em modo Development, usa **InMemory** automaticamente.

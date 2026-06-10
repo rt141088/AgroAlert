@@ -10,6 +10,7 @@ C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Infrastructure\obj\Debug\
 C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Infrastructure\obj\Debug\net8.0\AgroAlert.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Infrastructure\obj\Debug\net8.0\AgroAlert.Infrastructure.AssemblyInfo.cs
 C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Infrastructure\obj\Debug\net8.0\AgroAlert.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Infrastructure\obj\Debug\net8.0\AgroAlert.Infrastructure.sourcelink.json
 C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Infrastructure\obj\Debug\net8.0\AgroAler.23674AD9.Up2Date
 C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Infrastructure\obj\Debug\net8.0\AgroAlert.Infrastructure.dll
 C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Infrastructure\obj\Debug\net8.0\refint\AgroAlert.Infrastructure.dll

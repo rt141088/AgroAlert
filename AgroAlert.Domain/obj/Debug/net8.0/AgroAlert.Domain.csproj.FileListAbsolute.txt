@@ -5,6 +5,7 @@ C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Domain\obj\Debug\net8.0\A
 C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Domain\obj\Debug\net8.0\AgroAlert.Domain.AssemblyInfoInputs.cache
 C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Domain\obj\Debug\net8.0\AgroAlert.Domain.AssemblyInfo.cs
 C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Domain\obj\Debug\net8.0\AgroAlert.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Domain\obj\Debug\net8.0\AgroAlert.Domain.sourcelink.json
 C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Domain\obj\Debug\net8.0\AgroAlert.Domain.dll
 C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Domain\obj\Debug\net8.0\refint\AgroAlert.Domain.dll
 C:\Users\yasmi\Downloads\AgroAlert\AgroAlert\AgroAlert.Domain\obj\Debug\net8.0\AgroAlert.Domain.pdb
